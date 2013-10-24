@@ -169,7 +169,6 @@ default["percona"]["server"]["thread_cache_size"]               = 16
 default["percona"]["server"]["back_log"]                        = 50
 default["percona"]["server"]["max_connections"]                 = 30
 default["percona"]["server"]["max_connect_errors"]              = 9999999
-default["percona"]["server"]["table_cache"]                     = 8192
 
 # Query Cache Configuration
 default["percona"]["server"]["query_cache_size"]                = "64M"
